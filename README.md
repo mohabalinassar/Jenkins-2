@@ -47,3 +47,5 @@ enkins Pipeline syntax is based on the Groovy programming language.
 
 * Integration with SCM Providers: The Organization Folder integrates with various source code management providers (e.g., GitHub, GitLab, Bitbucket) to automatically trigger pipeline runs based on code changes.
 
+![Screenshot from 2023-08-17 02-42-21](https://github.com/mohabalinassar/Jenkins-2/assets/29493773/bdd3a39b-b71e-41e1-8134-132fb349f186)
+
